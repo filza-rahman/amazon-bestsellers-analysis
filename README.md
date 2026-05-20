@@ -91,14 +91,6 @@ pip install pandas matplotlib notebook
 ```bash
 jupyter notebook amazon/amazon_bestsellers.ipynb
 ```
-
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 *Dataset credit: [Souter Saalu on Kaggle](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019).*
